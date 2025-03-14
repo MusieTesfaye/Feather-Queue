@@ -1,6 +1,6 @@
-# LightQueue - A Lightweight PHP Job Queue Library
+# FeatherQueue - A Lightweight PHP Job Queue Library
 
-LightQueue is a simple, lightweight job queue library for PHP applications that need background processing without the overhead of Redis, databases, or other external dependencies. It uses the filesystem for storage and PHP's PCNTL extension for background process management.
+FeatherQueue is a simple, lightweight job queue library for PHP applications that need background processing without the overhead of Redis, databases, or other external dependencies. It uses the filesystem for storage and PHP's PCNTL extension for background process management.
 
 ## Features
 
@@ -16,7 +16,7 @@ LightQueue is a simple, lightweight job queue library for PHP applications that 
 
 ## Requirements
 
-- PHP 7.4 or higher
+- PHP 8.0 or higher
 - PHP JSON extension
 - PHP FileInfo extension
 - PHP PCNTL extension (for background processing)
@@ -25,4 +25,4 @@ LightQueue is a simple, lightweight job queue library for PHP applications that 
 ## Installation
 
 ```bash
-composer require lightqueue/lightqueue
+composer require featherqueue/featherqueue
