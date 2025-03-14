@@ -1,0 +1,22 @@
+{
+    "id": "job_67d476162ecc59.50469956",
+    "name": "email",
+    "payload": {
+        "to": "user@example.com",
+        "subject": "Welcome to FeatherQueue",
+        "message": "This is a test email from FeatherQueue"
+    },
+    "status": "completed",
+    "executeAt": null,
+    "attempts": 1,
+    "maxAttempts": 3,
+    "metadata": {
+        "created_at": 1741977110,
+        "processing_started_at": 1741977110,
+        "result": {
+            "sent": true,
+            "time": "2025-03-14 18:31:51"
+        },
+        "completed_at": 1741977111
+    }
+}

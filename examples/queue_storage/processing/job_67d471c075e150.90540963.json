@@ -1,0 +1,19 @@
+{
+    "id": "job_67d471c075e150.90540963",
+    "name": "send_welcome_email",
+    "handler": "processEmail",
+    "payload": {
+        "to": "user@example.com",
+        "subject": "Welcome to our service!",
+        "body": "Thank you for signing up..."
+    },
+    "executeAt": 1741976005,
+    "attempts": 0,
+    "maxAttempts": 3,
+    "recurring": false,
+    "interval": null,
+    "status": "processing",
+    "errorMessage": null,
+    "createdAt": 1741976000,
+    "updatedAt": 1741976006
+}

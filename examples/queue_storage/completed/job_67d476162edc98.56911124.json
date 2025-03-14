@@ -1,0 +1,18 @@
+{
+    "id": "job_67d476162edc98.56911124",
+    "name": "log",
+    "payload": {
+        "message": "Application started successfully",
+        "level": "info"
+    },
+    "status": "completed",
+    "executeAt": null,
+    "attempts": 1,
+    "maxAttempts": 3,
+    "metadata": {
+        "created_at": 1741977110,
+        "processing_started_at": 1741977111,
+        "result": true,
+        "completed_at": 1741977111
+    }
+}

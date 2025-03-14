@@ -1,0 +1,18 @@
+{
+    "id": "job_67d471c7763e60.86997535",
+    "name": "send_notification",
+    "handler": "EmailService::sendEmail",
+    "payload": {
+        "to": "admin@example.com",
+        "subject": "New user registered"
+    },
+    "executeAt": 1741976007,
+    "attempts": 0,
+    "maxAttempts": 3,
+    "recurring": false,
+    "interval": null,
+    "status": "processing",
+    "errorMessage": null,
+    "createdAt": 1741976007,
+    "updatedAt": 1741976007
+}

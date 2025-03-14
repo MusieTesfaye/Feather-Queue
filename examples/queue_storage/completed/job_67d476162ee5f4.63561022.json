@@ -1,0 +1,22 @@
+{
+    "id": "job_67d476162ee5f4.63561022",
+    "name": "email",
+    "payload": {
+        "to": "admin@example.com",
+        "subject": "Delayed notification",
+        "message": "This email was delayed by 5 seconds"
+    },
+    "status": "completed",
+    "executeAt": 1741977115,
+    "attempts": 1,
+    "maxAttempts": 3,
+    "metadata": {
+        "created_at": 1741977110,
+        "processing_started_at": 1741977117,
+        "result": {
+            "sent": true,
+            "time": "2025-03-14 18:31:58"
+        },
+        "completed_at": 1741977118
+    }
+}

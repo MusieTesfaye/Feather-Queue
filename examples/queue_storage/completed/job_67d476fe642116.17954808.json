@@ -1,0 +1,20 @@
+{
+    "id": "job_67d476fe642116.17954808",
+    "name": "email",
+    "payload": {
+        "message": "selam new",
+        "created_at": "2025-03-14 18:35:42"
+    },
+    "status": "completed",
+    "executeAt": 1741977344,
+    "attempts": 1,
+    "maxAttempts": 3,
+    "metadata": {
+        "created_at": 1741977342,
+        "processing_started_at": 1741977364,
+        "result": {
+            "processed_at": "2025-03-14 18:36:04"
+        },
+        "completed_at": 1741977364
+    }
+}
