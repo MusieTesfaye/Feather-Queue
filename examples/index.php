@@ -798,7 +798,7 @@ header('Content-Type: text/html; charset=utf-8');
                         <div class="code-block">
                             <button class="copy-button"><i class="fas fa-copy"></i> Copy</button>
                             <div class="copy-feedback">Copied!</div>
-                            <pre><code class="language-bash">composer require replit/featherqueue</code></pre>
+                            <pre><code class="language-bash">composer require featherqueue/featherqueue</code></pre>
                             <div class="code-label">bash</div>
                         </div>
                         
@@ -807,7 +807,7 @@ header('Content-Type: text/html; charset=utf-8');
                         <div class="code-block">
                             <button class="copy-button"><i class="fas fa-copy"></i> Copy</button>
                             <div class="copy-feedback">Copied!</div>
-                            <pre><code class="language-bash">git clone https://github.com/replit/featherqueue.git</code></pre>
+                            <pre><code class="language-bash">git clone https://github.com/MusieTesfaye/Feather-Queue.git</code></pre>
                             <div class="code-label">bash</div>
                         </div>
                         
@@ -1583,9 +1583,8 @@ echo date(\'Y-m-d H:i:s\') . " - Worker completed - processed {$processed} jobs\
                     <h3>FeatherQueue</h3>
                     <p>A lightweight PHP job queue library with filesystem storage. Simple, yet powerful background processing for your PHP applications.</p>
                     <div class="footer-social">
-                        <a href="#" class="social-icon"><i class="fab fa-github"></i></a>
-                        <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
-                        <a href="#" class="social-icon"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://github.com/MusieTesfaye/Feather-Queue.git" class="social-icon"><i class="fab fa-github"></i></a>
+                        
                     </div>
                 </div>
                 
@@ -1613,9 +1612,9 @@ echo date(\'Y-m-d H:i:s\') . " - Worker completed - processed {$processed} jobs\
                     <h3>Resources</h3>
                     <ul>
                         <li><a href="dashboard.php">Dashboard</a></li>
-                        <li><a href="https://github.com/replit/featherqueue" target="_blank">GitHub</a></li>
-                        <li><a href="https://packagist.org/packages/replit/featherqueue" target="_blank">Packagist</a></li>
-                        <li><a href="https://github.com/replit/featherqueue/issues" target="_blank">Report Issues</a></li>
+                        <li><a href="https://github.com/MusieTesfaye/Feather-Queue.git" target="_blank">GitHub</a></li>
+                        <li><a href="https://packagist.org/packages/featherqueue/featherqueue" target="_blank">Packagist</a></li>
+                        <li><a href="https://github.com/MusieTesfaye/Feather-Queue/issues" target="_blank">Report Issues</a></li>
                     </ul>
                 </div>
             </div>

@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'lightqueue/lightqueue',
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
-        'reference' => '0f102785ab502bf5c750363eb37662df43d742bf',
+        'name' => 'featherqueue/featherqueue',
+        'pretty_version' => '1.0.0',
+        'version' => '1.0.0.0',
+        'reference' => null,
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'lightqueue/lightqueue' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => '0f102785ab502bf5c750363eb37662df43d742bf',
+        'featherqueue/featherqueue' => array(
+            'pretty_version' => '1.0.0',
+            'version' => '1.0.0.0',
+            'reference' => null,
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
