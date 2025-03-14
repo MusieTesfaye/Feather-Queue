@@ -2,6 +2,8 @@
 
 FeatherQueue is a simple, lightweight job queue library for PHP applications that need background processing without the overhead of Redis, databases, or other external dependencies. It uses the filesystem for storage and PHP's PCNTL extension for background process management.
 
+![Dashboard](dashboard.png)
+
 ## Features
 
 - ✅ File-based job storage using JSON files
