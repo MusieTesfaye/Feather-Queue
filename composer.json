@@ -1,5 +1,6 @@
 {
-    "name": "replit/featherqueue",
+    "name": "featherqueue/featherqueue",
+    "version": "1.0.0",
     "description": "A lightweight PHP job queue library using filesystem storage without Redis or database dependencies",
     "type": "library",
     "license": "MIT",
@@ -10,8 +11,8 @@
     },
     "authors": [
         {
-            "name": "Replit",
-            "email": "info@replit.com"
+            "name": "FeatherQueue Team",
+            "email": "imblacker13@gmail.com"
         }
     ],
     "require": {
